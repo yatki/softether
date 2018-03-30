@@ -1,5 +1,7 @@
 FROM ubuntu:16.04
 
+LABEL maintainer="Mehmet Yatkı <mehmet@yatki.com>"
+
 RUN apt-get update
 RUN apt-get -y install sudo wget
 RUN apt-get -y install checkinstall build-essential;

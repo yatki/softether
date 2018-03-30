@@ -1,6 +1,8 @@
-# SoftEther Docker Image
+# WIP: SoftEther Docker Image
 
 SoftEther Docker Image
+
+IMPORTANT! This repository is still under development. Please do not use it on production systems.
 
 # Resources
 
